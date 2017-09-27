@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [26/Sep/2017:22:41:46 +0800] "GET /tcu/vehicle/list HTTP/1.1" 500 12884 http-bio-8080-exec-1 1406
+0:0:0:0:0:0:0:1 - - [26/Sep/2017:22:43:35 +0800] "GET /tcu/vehicle/list HTTP/1.1" 500 3633 http-bio-8080-exec-1 1468
